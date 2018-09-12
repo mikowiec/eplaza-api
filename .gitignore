@@ -1,0 +1,18 @@
+# Idea config
+/.idea/
+
+
+# Vim
+tags
+*.swp
+
+# Build file
+/target/
+/out/
+
+jdbc.propert*
+/.settings/
+/bin
+.classpath
+.project
+*.iml
